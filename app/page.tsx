@@ -11,6 +11,7 @@ export default function Home() {
           <li>To decrypt: Paste the encrypted message, set the same shift value, and click &quot;Decrypt&quot;.</li>
           <li>Use the &quot;Share&quot; button to easily send the encrypted message via WhatsApp.</li>
           <li>Always use the same shift value for encrypting and decrypting!</li>
+          <li>For more webdevelopment click the Whastapp btn or contact me 0798388890</li>
         </ol>
       </div>
       <WhatsAppEncryption />
